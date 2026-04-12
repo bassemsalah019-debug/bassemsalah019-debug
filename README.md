@@ -299,7 +299,7 @@ Backed by real industry experience at Energia Inc — seismic, reservoir charact
       🗺️ Online Training — Geological & Structural Mapping | Nov 2020
 
 2017  ──────────────────────────────────────────────────────────────────
-      🎓 BSc Geology & Geophysics Engineering
+      🎓 BSc  Petroleum Engineering
          Suez University, Faculty of Petroleum & Mining Engineering
          2017–2022
          Graduation Project 1: Seismic Evaluation (TP) Concession,
