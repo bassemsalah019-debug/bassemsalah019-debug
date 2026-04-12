@@ -288,8 +288,21 @@ Backed by real industry experience at Energia Inc — seismic, reservoir charact
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Petrel](https://img.shields.io/badge/-Schlumberger_Petrel-003DA5?style=flat-square&logoColor=white)
 
-[![View Project](https://img.shields.io/badge/📂_View_Project-0f3460?style=for-the-badge)](https://github.com/bassemsalah019-debug/well-log-petrophysical-analysis)
-[![Notebook](https://img.shields.io/badge/📓_Open_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](./projects/well-log-petrophysical/)
+<p align="center">
+
+  <a href="https://github.com/bassemsalah019-debug/bassemsalah019-debug/blob/main/projects/well-log-petrophysical-analysis/Oil_Pro_1.ipynb">
+    <img src="https://img.shields.io/badge/📊_Petrophysical_Notebook-FF7C00?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/bassemsalah019-debug/bassemsalah019-debug/blob/main/projects/well-log-petrophysical-analysis/volumetrics.png">
+    <img src="https://img.shields.io/badge/🧮_Volumetrics_Image-00C853?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/bassemsalah019-debug/bassemsalah019-debug/blob/main/projects/well-log-petrophysical-analysis/well_log.png">
+    <img src="https://img.shields.io/badge/🪨_Well_Log_Image-e94560?style=for-the-badge" />
+  </a>
+
+</p>
 
 ---
 
