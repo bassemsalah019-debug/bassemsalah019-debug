@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 > **"Bridging the gap between raw Earth data and intelligent AI-driven insights."**
 
-I'm **Bassem Salah Abd El-Aleem**, a **Petroleum Engineer & Data Analyst** based in Cairo, Egypt 🇪🇬 — with a rare dual expertise in **Petroleum Geoscience** (BSc, Suez University) and **Data Science & AI/ML** (MCIT — DigiLines Program).
+I'm **Bassem Salah**, a **Petroleum Engineer & Data Analyst** based in Cairo, Egypt 🇪🇬 — with a rare dual expertise in **Petroleum Geoscience** (BSc, Suez University) and **Data Science & AI/ML** (MCIT — DigiLines Program).
 
 I build end-to-end data pipelines, ML models, and interactive dashboards that turn complex geological and operational data into actionable decisions. My unique edge: I combine **seismic interpretation, reservoir characterization, and well log analysis** with **Python, SQL, and machine learning** — a combination very few practitioners bring to the table.
 
