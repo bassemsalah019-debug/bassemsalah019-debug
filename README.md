@@ -217,9 +217,21 @@ I build end-to-end data pipelines, ML models, and interactive dashboards that tu
 ![Orange DM](https://img.shields.io/badge/-Orange_DM-FF7F0E?style=flat-square)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-[![View Project](https://img.shields.io/badge/📂_View_Project-0f3460?style=for-the-badge)](https://github.com/bassemsalah019-debug/hospital-los-mining)
-[![Dashboard](https://img.shields.io/badge/📊_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](./projects/hospital-los-mining/)
-[![Report](https://img.shields.io/badge/📄_Full_Report-e94560?style=for-the-badge)](./projects/hospital-los-mining/)
+<p align="center">
+
+  <a href="https://github.com/bassemsalah019-debug/bassemsalah019-debug/blob/main/projects/hospital-los-data-mining/EDA%20FIle%20.ipynb">
+    <img src="https://img.shields.io/badge/📊_EDA_Notebook-FF7C00?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/bassemsalah019-debug/bassemsalah019-debug/blob/main/projects/hospital-los-data-mining/SQL%20file%20.sql">
+    <img src="https://img.shields.io/badge/🗄️_SQL_File-00C853?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/bassemsalah019-debug/bassemsalah019-debug/blob/main/projects/hospital-los-data-mining/hotspital_report_final%20.pdf">
+    <img src="https://img.shields.io/badge/📄_Final_Report-e94560?style=for-the-badge" />
+  </a>
+
+</p>
 
 ---
 
