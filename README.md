@@ -147,7 +147,7 @@ I build end-to-end data pipelines, ML models, and interactive dashboards that tu
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-[![View Project]([https://img.shields.io/badge/📂_View_Project-0f3460?style=for-the-badge)](https://github.com/bassemsalah019-debug/body-performance-ml](https://github.com/bassemsalah019-debug/bassemsalah019-debug/tree/main/projects/body-performance-ml/projects/body-performance-ml))
+[![View Project](https://img.shields.io/badge/🚀_Live_App-FF7C00?style=for-the-badge)](https://huggingface.co/spaces)
 [![Live App](https://img.shields.io/badge/🚀_Live_App-FF7C00?style=for-the-badge)](https://huggingface.co/spaces)
 [![Report](https://img.shields.io/badge/📄_Full_Report-e94560?style=for-the-badge)](./projects/body-performance-ml/)
 
