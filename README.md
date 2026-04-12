@@ -16,17 +16,32 @@ Here are some ideas to get you started:
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bassem%20Salah&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%2FML%20Engineer%20%7C%20Petroleum%20Data%20Specialist&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Bassem%20Salah&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20Petroleum%20Data%20Specialist&descSize=18&descAlignY=60" width="100%"/>
+
+</div>
 
 <!-- Typing Animation -->
 <a href="https://github.com/bassemsalah019-debug">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C9FD9&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Data+Analyst+%7C+Power+BI+Developer;Petroleum+Data+Specialist;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bassemsalahpd)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bassemsalah019-debug)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bassemsalah019@gmail.com)
+<div align="center">
 
+<a href="https://linkedin.com/in/bassemsalahpd">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:bassemsalah019@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/bassemsalah019-debug">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
 <br/>
 
 
