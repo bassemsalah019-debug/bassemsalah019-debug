@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 </div>
 
+
+
 <!-- Typing Animation -->
 <a href="https://github.com/bassemsalah019-debug">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C9FD9&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Data+Analyst+%7C+Power+BI+Developer;Petroleum+Data+Specialist;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
@@ -60,7 +62,12 @@ Here are some ideas to get you started:
 
 ---
 
-## 👨‍💻 About Me
+
+<table align="center">
+  <tr>
+    <td valign="top" width="60%">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="35" /> About Me
 
 > **"Bridging the gap between raw Earth data and intelligent AI-driven insights."**
 
