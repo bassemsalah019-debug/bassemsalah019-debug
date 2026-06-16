@@ -465,3 +465,6 @@ Backed by real industry experience at Energia Inc — seismic, reservoir charact
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer&text=Let's%20build%20something%20great%20together&fontSize=20&fontColor=e94560&animation=fadeIn"/>
 
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,30:203A43,70:2C5364,100:0F2027&height=100&section=header" width="100%" />
+</p>
