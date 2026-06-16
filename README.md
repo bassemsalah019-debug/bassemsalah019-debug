@@ -444,7 +444,7 @@ Backed by real industry experience at Energia Inc — seismic, reservoir charact
 
 ---
 
-## 📬 Contact Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="35" /> Let's Connect!
 
 <div align="center">
 
