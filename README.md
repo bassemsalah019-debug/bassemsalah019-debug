@@ -465,6 +465,13 @@ Backed by real industry experience at Energia Inc — seismic, reservoir charact
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer&text=Let's%20build%20something%20great%20together&fontSize=20&fontColor=e94560&animation=fadeIn"/>
 
 </div>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,30:203A43,70:2C5364,100:0F2027&height=100&section=header" width="100%" />
-</p>
+table align="center">
+  <tr>
+    <td align="center" width="100%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,30:203A43,70:2C5364,100:0F2027&height=300&section=header&text=Bassem%20Salah&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=%F0%9F%94%A5%20Petroleum%20Engineer%20%7C%20Data%20Scientist%20%7C%20AI%20Innovator&descSize=18&descAlign=50&descAlignY=60&stroke=00BFFF&strokeWidth=2" width="1200%" />
+      </picture>
+    </td>
+  </tr>
+</table>
