@@ -456,6 +456,35 @@ Backed by real industry experience at Energia Inc — seismic, reservoir charact
 | 📞 **Phone** | +20 100 117 9269 |
 | 📍 **Location** | Cairo, Egypt 🇪🇬 |
 
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="35" /> Let's Connect!
+
+<p align="center">
+I'm always open to interesting conversations and collaboration opportunities.<br>
+Whether you have a question, a project idea, or just want to say hi — feel free to reach out!
+</p>
+
+<table align="center">
+<tr>
+<td align="center">
+  <a href="https://linkedin.com/in/bassemsalahpd" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <br><br>
+  <a href="mailto:bassemsalah019@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br><br>
+  <a href="https://wa.me/201001179269" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</td>
+</tr>
+</table>
+
+
+
+
 <br/>
 
 *Open to: Data Analyst · AI/ML Engineer · Petroleum Data Scientist · Freelance Projects*
