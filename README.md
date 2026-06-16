@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 <!-- Animated Header -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Bassem%20Salah&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20Petroleum%20Data%20Specialist&descSize=18&descAlignY=60" width="100%"/>
@@ -22,6 +23,11 @@ Here are some ideas to get you started:
 </div>
 
 <!-- Typing Animation -->
+<br>
+
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" >
+  
+</div>
 
 <table align="center">
   <tr>
