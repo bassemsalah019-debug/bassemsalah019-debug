@@ -124,14 +124,33 @@ I build end-to-end data pipelines, ML models, and interactive dashboards that tu
 
 ---
 
+## 📜 Certifications
+
+<div align="center">
+
+| 🎓 Certification | 🏛️ Issuer | 📅 Year | 🔗 |
+|-----------------|-----------|---------|-----|
+| 🤖 **AI & Machine Learning** | DigiLines — MCIT Egypt | 2026 | coming soon |
+| 📊 **Data Analytics Program** | DigiLines — MCIT Egypt | 2026 | coming soon |
+| 🧠 **Azure AI Fundamentals (AI-901)** | Microsoft | 2026 | coming soon |
+| ☁️ **Azure Data Fundamentals (DP-900)** | Microsoft | 2026 | coming soon |
+| 📈 **Power BI Data Analyst Associate (PL-300)** | Microsoft | 2026 | [View](https://learn.microsoft.com/en-us/users/bassemsalahabdelalim-6117/credentials/5b1854bd43ef5cea?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
+| 📈 **Fabric Analytics Engineer Associate (DP-600)** | Microsoft | 2026 | [View](https://learn.microsoft.com/en-us/users/bassemsalahabdelalim-6117/credentials/984622ecda4cdcb5?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
+| 🧠 **IBM AI Engineering** | IBM | 2026 | [View](https://www.coursera.org/account/accomplishments/specialization/1EKSFM1BYDUP) |
+| 📈 **Google Data Analytics** | Google | 2026 | [View](https://www.coursera.org/account/accomplishments/professional-cert/KFU00VJBZTJX) |
+| 🛡️ **OSHA General (HSE)** | OSHA | 2022 | [View](https://app.oshacademy-atp.com/verify/?code=260201-100-352-9bde5) |
+| 🛢️ **IWCF Programme Level 1** | IWCF | 2022 | [View](https://iwcflevel1programme.lovable.app) |
+| 🏢 **Internship Certificate** | Energia Inc | 2022 | [View](https://www.linkedin.com/feed/update/urn:li:activity:6955635836902080512/) |
+
+</div>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Previous projects
 
----
+
 
 ### 🏋️ Body Performance ML Analytics
 > *Classification · Feature Engineering · Regression · SHAP Explainability · Gradio App*
@@ -405,25 +424,7 @@ Backed by real industry experience at Energia Inc — seismic, reservoir charact
 
 ---
 
-## 📜 Certifications
 
-<div align="center">
-
-| 🎓 Certification | 🏛️ Issuer | 📅 Year | 🔗 |
-|-----------------|-----------|---------|-----|
-| 🤖 **AI & Machine Learning** | DigiLines — MCIT Egypt | 2026 | coming soon |
-| 📊 **Data Analytics Program** | DigiLines — MCIT Egypt | 2026 | coming soon |
-| 🧠 **Azure AI Fundamentals (AI-901)** | Microsoft | 2026 | coming soon |
-| ☁️ **Azure Data Fundamentals (DP-900)** | Microsoft | 2026 | coming soon |
-| 📈 **Power BI Data Analyst Associate (PL-300)** | Microsoft | 2026 | [View](https://learn.microsoft.com/en-us/users/bassemsalahabdelalim-6117/credentials/5b1854bd43ef5cea?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
-| 📈 **Fabric Analytics Engineer Associate (DP-600)** | Microsoft | 2026 | [View](https://learn.microsoft.com/en-us/users/bassemsalahabdelalim-6117/credentials/984622ecda4cdcb5?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
-| 🧠 **IBM AI Engineering** | IBM | 2026 | [View](https://www.coursera.org/account/accomplishments/specialization/1EKSFM1BYDUP) |
-| 📈 **Google Data Analytics** | Google | 2026 | [View](https://www.coursera.org/account/accomplishments/professional-cert/KFU00VJBZTJX) |
-| 🛡️ **OSHA General (HSE)** | OSHA | 2022 | [View](https://app.oshacademy-atp.com/verify/?code=260201-100-352-9bde5) |
-| 🛢️ **IWCF Programme Level 1** | IWCF | 2022 | [View](https://iwcflevel1programme.lovable.app) |
-| 🏢 **Internship Certificate** | Energia Inc | 2022 | [View](https://www.linkedin.com/feed/update/urn:li:activity:6955635836902080512/) |
-
-</div>
 
 ---
 ## 🧰 Skills Matrix
