@@ -414,16 +414,16 @@ Backed by real industry experience at Energia Inc — seismic, reservoir charact
 | 🤖 **AI & Machine Learning** | DigiLines — MCIT Egypt | 2026 | coming soon |
 | 📊 **Data Analytics Program** | DigiLines — MCIT Egypt | 2026 | coming soon |
 | ☁️ **Microsoft Azure Fundamentals** | Microsoft | 2026 | coming soon |
-| 📈 **Microsoft Power BI** | Microsoft |2026| coming soon |
-| 📈 **Google Data Analytics** | Google |2026|[View](https://www.coursera.org/account/accomplishments/professional-cert/KFU00VJBZTJX)|
+| 📈 **Microsoft Power BI** | Microsoft | 2026 | [View](https://learn.microsoft.com/en-us/users/bassemsalahabdelalim-6117/credentials/5b1854bd43ef5cea?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
+| 🏗️ **Microsoft Certified: Fabric Analytics Engineer Associate** | Microsoft | 2026 | [View](https://learn.microsoft.com/en-us/users/bassemsalahabdelalim-6117/credentials/984622ecda4cdcb5?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
+| 📈 **Google Data Analytics** | Google | 2026 | [View](https://www.coursera.org/account/accomplishments/professional-cert/KFU00VJBZTJX) |
 | 🛡️ **OSHA General (HSE)** | OSHA | 2022 | [View](https://app.oshacademy-atp.com/verify/?code=260201-100-352-9bde5) |
-| 🛢️ **IWCF Programme Level 1** | IWCF | 2022 | [View](https://www.linkedin.com/company/international-well-control-forum/posts/?feedView=all) |
+| 🛢️ **IWCF Programme Level 1** | IWCF | 2022 | [View](https://iwcflevel1programme.lovable.app) |
 | 🏢 **Internship Certificate** | Energia Inc | 2022 | [View](https://www.linkedin.com/feed/update/urn:li:activity:6955635836902080512/) |
 
 </div>
 
 ---
-
 ## 🧰 Skills Matrix
 
 <div align="center">
