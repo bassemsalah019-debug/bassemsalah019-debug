@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://bassemsalah.lovable.app">
+<a href="https://bassemsalah.lovable.app/">
   <img src="https://skillicons.dev/icons?i=react" title="Portfolio" />
 </a>
 
